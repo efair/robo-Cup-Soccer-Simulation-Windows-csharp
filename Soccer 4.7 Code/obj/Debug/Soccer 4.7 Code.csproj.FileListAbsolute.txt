@@ -1,0 +1,7 @@
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\obj\Debug\Soccer 4.7 Code.csprojResolveAssemblyReference.cache
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\obj\Debug\Soccer_4._7_Code.Properties.Resources.resources
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\obj\Debug\Soccer 4.7 Code.csproj.GenerateResource.Cache
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\bin\Debug\Soccer 4.7 Code.exe
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\bin\Debug\Soccer 4.7 Code.pdb
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\obj\Debug\Soccer 4.7 Code.exe
+C:\Users\Efair\Desktop\A\Soccer 4.7 Code\Soccer 4.7 Code\obj\Debug\Soccer 4.7 Code.pdb
